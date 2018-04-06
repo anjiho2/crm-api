@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+  ~ Copyright(c) 2015 BirdLetter. All rights reserved.
+  ~ This software is the proprietary information of BirdLetter.
+  -->
+
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment>properties</comment>
+    <entry key="admin.db.url">${admin.db.url}</entry>
+    <entry key="admin.db.username">${admin.db.username}</entry>
+    <entry key="admin.db.password">${admin.db.password}</entry>
+
+    <entry key="logger.root">${logger.root}</entry>
+    <entry key="logger.level">${logger.level}</entry>
+    <entry key="logger.name">${logger.name}</entry>
+</properties>
